@@ -37,3 +37,10 @@ This route is used for user login.
 - Body: JSON object representing the user.
 
 - Status: 500 (Internal Server Error) - If the username or password is incorrect or missing.
+
+
+## Tests
+
+[Test1](./testslab061.jpg)
+[Test2](./testslab062.jpg)
+[Test3](./testsclass063.jpg)
